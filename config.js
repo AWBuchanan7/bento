@@ -163,7 +163,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'backloggery',
-					link: 'https://backloggery.com/moonraccoon,
+					link: 'https://backloggery.com/moonraccoon',
 				},
 				{
 					name: 'indie retro news',
