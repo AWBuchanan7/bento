@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Aubrey',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
