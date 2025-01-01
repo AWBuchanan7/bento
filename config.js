@@ -80,13 +80,13 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://www.reddit.com/',
+			link: 'https://reddit.com/',
 		},
 		{
 			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -144,8 +144,8 @@ const CONFIG = {
 					link: 'https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop',
 				},
 				{
-					name: 'jstor',
-					link: 'https://www.jstor.org/',
+					name: 'librarything',
+					link: 'https://librarything.com'
 				},
 				{
 					name: 'literary hub',
