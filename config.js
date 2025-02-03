@@ -140,8 +140,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'gallica',
-					link: 'https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop',
+					name: 'dinosaur comics',
+					link: 'https://www.qwantz.com',
 				},
 				{
 					name: 'librarything',
