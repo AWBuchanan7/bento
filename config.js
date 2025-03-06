@@ -162,8 +162,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'indie retro news',
-					link: 'https://www.indieretronews.com/',
+					name: 'gallica',
+					link: 'https://gallica.bnf.fr/accueil/en/html/accueil-en',
 				},
 				{
 					name: 'globe and mail',
