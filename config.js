@@ -148,7 +148,7 @@ const CONFIG = {
 					link: 'https://librarything.com'
 				},
 				{
-					name: 'literary hub',
+					name: 'lithub',
 					link: 'https://lithub.com/',
 				},
 				{
@@ -162,20 +162,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'backloggery',
-					link: 'https://backloggery.com/moonraccoon',
-				},
-				{
 					name: 'indie retro news',
 					link: 'https://www.indieretronews.com/',
 				},
 				{
-					name: 'itch.io',
-					link: 'https://itch.io/',
+					name: 'globe and mail',
+					link: 'https://www.theglobeandmail.com/',
 				},
 				{
-					name: 'pixilart',
-					link: 'https://www.pixilart.com/',
+					name: 'jstor',
+					link: 'https://daily.jstor.org/',
+				},
+				{
+					name: 'macleans',
+					link: 'https://macleans.ca/',
 				},
 			],
 		},
