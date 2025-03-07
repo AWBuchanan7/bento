@@ -136,7 +136,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'square-library',
+			icon: 'book-open-text',
 			id: '1',
 			links: [
 				{
@@ -158,7 +158,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'gamepad',
+			icon: 'book-marked',
 			id: '2',
 			links: [
 				{
