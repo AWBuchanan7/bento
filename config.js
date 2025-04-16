@@ -156,13 +156,7 @@ const CONFIG = {
 					link: 'https://www.pocket.com',
 				},
 			],
-		},
-		{
-			icon: 'book-marked',
-			id: '2',
-			links: [
-			],
-		},
+		}
 	],
 
 	// Second Links Container
