@@ -161,22 +161,6 @@ const CONFIG = {
 			icon: 'book-marked',
 			id: '2',
 			links: [
-				{
-					name: 'gallica',
-					link: 'https://gallica.bnf.fr/accueil/en/html/accueil-en',
-				},
-				{
-					name: 'globe and mail',
-					link: 'https://www.theglobeandmail.com/',
-				},
-				{
-					name: 'jstor',
-					link: 'https://daily.jstor.org/',
-				},
-				{
-					name: 'macleans',
-					link: 'https://macleans.ca/',
-				},
 			],
 		},
 	],
