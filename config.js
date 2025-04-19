@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'おやすみなさい!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '437f6c71028986fda571c0ee633c5049', // Write here your API Key
@@ -138,6 +138,28 @@ const CONFIG = {
 		{
 			icon: 'book-open-text',
 			id: '1',
+			links: [
+				{
+					name: 'dinosaur comics',
+					link: 'https://www.qwantz.com',
+				},
+				{
+					name: 'librarything',
+					link: 'https://librarything.com'
+				},
+				{
+					name: 'lithub',
+					link: 'https://lithub.com/',
+				},
+				{
+					name: 'pocket',
+					link: 'https://www.pocket.com',
+				},
+			],
+		},
+		{
+			icon: 'book-open-text',
+			id: '2',
 			links: [
 				{
 					name: 'dinosaur comics',
