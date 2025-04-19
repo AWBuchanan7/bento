@@ -117,9 +117,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'timextension',
+			name: 'backloggery',
 			icon: 'joystick',
-			link: 'https://www.timeextension.com/',
+			link: 'https://backloggery.com',
 		},
 		{
 			id: '6',
