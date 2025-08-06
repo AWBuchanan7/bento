@@ -99,9 +99,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'pocket',
+			name: 'timeextension',
 			icon: 'book-down',
-			link: 'https://www.pocket.com',
+			link: 'https://www.timeextension.com/',
 		},
 		{
 			id: '3',
