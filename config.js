@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'square-terminal',
 			link: 'https://github.com/',
 		},
 		{
@@ -85,7 +85,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'film',
 			link: 'https://youtube.com/',
 		},
 	],
@@ -106,7 +106,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'bluesky',
-			icon: 'twitter',
+			icon: 'bird',
 			link: 'https://bsky.app/',
 		},
 		{
